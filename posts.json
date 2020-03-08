@@ -15,8 +15,8 @@
 }, {
   "cover" : "https://1.bp.blogspot.com/-rfCmTm6EBUY/XiXh7sW6MZI/AAAAAAAAEUU/UZyRNAgr9fE-fPTMdCT8fQJTKOgTS-H_ACLcBGAsYHQ/s320/124.jpg",
   "length" : "06:48",
-  "title" : "ၾကက္နီမေလး,edu",
-   "genre" : "mfairytales",
+  "title" : "ၾကက္နီမေလး",
+   "genre" : "mfairytales,edu",
   "video" : "https://drive.google.com/file/d/1FYGwl1ycj7QbEtHPefmDqE14YbzmrEFM/view"
 }, {
   "cover" : "https://1.bp.blogspot.com/-lhfEq-SRGZ0/XiXh8bue4fI/AAAAAAAAEUc/Q_qfxbjfY605X8oPJGUZchEza796cscKACLcBGAsYHQ/s1600/125.jpg",
@@ -46,7 +46,7 @@
   "cover" : "https://1.bp.blogspot.com/-7V7i5tZjl-w/XiXh-KojDsI/AAAAAAAAEUs/3bceEEElO90XsgXvwwrTQb_PXxKlGkLWgCLcBGAsYHQ/s1600/129.jpg",
   "length" : "07:41",
   "title" : "တစ္ကိုယ္ေကာင္းဆန္တဲ့ ဘီလူးႀကီး ",
-   "genre" : "mfairytales",
+   "genre" : "mfairytales,witch",
   "video" : "https://drive.google.com/file/d/1ZO1_hZLGLt41MhTeC4-Rn6az4iN6PRlD/view"
 }, {
   "cover" : "https://1.bp.blogspot.com/-WPDLDrIR3I8/XiXh-Fkd9gI/AAAAAAAAEUw/CVvuDS7K2yER5OWboLR4hgWyDt47XFzpwCLcBGAsYHQ/s320/130.jpg",
@@ -810,6 +810,126 @@
   "title" : "ပျော်ရွှင်သော မင်းသားလေး",
    "genre" : "mfairytales,minthar",
   "video" : "https://drive.google.com/file/d/1SSFIJCqa6M22JiO7IzLGtXVZkNEIvDWi/view"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-lHcRzrg_20o/XmTMZUsDc6I/AAAAAAAAEvA/_Ai5C3TVPDcCiRO5Sp8dsjadMpXNQfg5wCLcBGAsYHQ/s1600/F01.jpg",
+  "length" : "14:29",
+  "title" : "ဗိုင်းငင်သမသုုံးယောက်",
+  "genre" : "mfairytales,edu",
+  "video" : "https://drive.google.com/file/d/1lywoGg9lwChS9_WYgDtxxw3yROudGQBk/view"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-5vRNUnjP93k/XmTMZW1BTmI/AAAAAAAAEu8/CBHtlartyY8v4EuIgjOug3vnOHrSdq5CACLcBGAsYHQ/s1600/F02.jpg",
+  "length" : "15:32",
+  "title" : "ဒရမ်သမားလေး (၀ါ) ဗုံတီးသူ၊ ဗုံးတီးသမား",
+  "genre" : "minthar,witch",
+  "video" : "https://drive.google.com/file/d/1jZxVaM7GB6fZdIkShKzAB7yAgRJGgHca/view"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-a4ICpiLquvU/XmTMZVu02CI/AAAAAAAAEvE/13bffCi0SkwMn2lK31UzC8C5DyhzJLs9wCLcBGAsYHQ/s1600/F03.jpg",
+  "length" : "15:43",
+  "title" : "မင်းသားလေး မောင်ချစ်စရာ",
+  "genre" : "mfairytales,king,animal",
+  "video" : "https://drive.google.com/file/d/1_MfHJ9Em27dVCBkE9AFryudlaOnAq9eF/view"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-AD_gcAJPf3Q/XmTManw6ynI/AAAAAAAAEvI/-mtdzpiNtekutfqoaVjPdNi43qByC3YJgCLcBGAsYHQ/s1600/F04.jpg",
+  "length" : "12:02",
+  "title" : "မော်လီလေးနှင့်ဘီလူးကြီး",
+  "genre" : "mfairytales,edu,princess",
+  "video" : "https://drive.google.com/file/d/1p7O3bvvBOfNRxjWR8BmQkTvm1TROqPpL/view"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-LcLH38CLtuA/XmTMaivlXoI/AAAAAAAAEvM/Fb_6LYjiAiI3XdCes_urcAnzm4jZPT0pQCLcBGAsYHQ/s1600/F05.jpg",
+  "length" : "17:55",
+  "title" : "သစ္စာရှင်လေး ဂျွန် ",
+  "genre" : "mfairytales,minthar,king,animal",
+  "video" : "https://drive.google.com/file/d/1F15SWsgqsVZ-KQfIzKix8CM7wQlTSfCT/view"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-9irO7LP_zpw/XmTMa37VZcI/AAAAAAAAEvQ/zeq5YJgTGSEP_cQ3O9T2L960Uf3yP4aiACLcBGAsYHQ/s1600/F06.jpg",
+  "length" : "12:58",
+  "title" : "စကတ် အထည် နှစ်ဆယ် ဝတ် မင်းသမီးလေး",
+  "genre" : "mfairytales,princess",
+  "video" : "https://drive.google.com/file/d/1mpBVjy6_0cXfVHzTJfnnpWyZgQFVlo2i/view"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-HZsVu8sy0aU/XmTMbeJMlrI/AAAAAAAAEvU/hW2Fw4xkiqUF4ezRrLPvyxjopy_LQ86iACLcBGAsYHQ/s1600/F07.jpg",
+  "length" : "12:26",
+  "title" : "ကြောက်မက်ဖွယ်ရာ သစ်တောအုပ်ကြီး",
+  "genre" : "mfairytales,witch,animal",
+  "video" : "https://drive.google.com/file/d/1MbOM0SU-hvtxOIa9wHnP3r21IYaU6y5-/view"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-G8uTM2ih6t0/XmTMb7CHtbI/AAAAAAAAEvY/AZCFBm9CzngTO8wBNM4Qafd4IP5DjKt0QCLcBGAsYHQ/s1600/F08.jpg",
+  "length" : "15:12",
+  "title" : "နေမင်းရဲ့ ညီမများ",
+  "genre" : "mfairytales,witch,princess,edu",
+  "video" : "https://drive.google.com/file/d/1ScXshrBFY-vbTnhi7BoUgfQVRretLb-e/view"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-X8G08QEFV6M/XmTMb_ZHLXI/AAAAAAAAEvc/2iwE1Kabw5kOXSalKZj7U23gASCSHOmiQCLcBGAsYHQ/s1600/F09.jpg",
+  "length" : "16:19",
+  "title" : "ကိုယ်အလေးချိန်မဲ့မင်းသမီးလေး",
+  "genre" : "mfairytales,king,princess",
+  "video" : "https://drive.google.com/file/d/1ddwC2zCI7PZWjYSSn27wP7A-IsJ9btAJ/view"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-JFtQdQXm6Vg/XmTMcNOEbxI/AAAAAAAAEvg/GDvB1VaK7RAhMssDxQmrchZtJ0dubh6VwCLcBGAsYHQ/s1600/F10.jpg",
+  "length" : "10:38",
+  "title" : "ကြောင်ရုပ်ဆွဲတဲ့ကောင်ကလေး",
+  "genre" : "mfairytales,animal,minthar",
+  "video" : "https://drive.google.com/file/d/12tIQJ60Z8CrDS380dgDAeX5lzANowO7o/view"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-U-kFHHuQlqU/XmTMco5ALgI/AAAAAAAAEvk/042i8S-Y7VUncKaM9uPlUJsuod1s9mrigCLcBGAsYHQ/s1600/F11.jpg",
+  "length" : "11:57",
+  "title" : "အရှုး ဘုရင်",
+  "genre" : "mfairytales,king,edu",
+  "video" : "https://drive.google.com/file/d/1MVWzYJyNkWZgHDba9TCKEmdI7EScMjK8/view"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-lkFurU0imFY/XmTMc1ilihI/AAAAAAAAEvo/RMmuazQIDaMLtUKhSDlY2-0B2U49MyyCQCLcBGAsYHQ/s1600/F12.jpg",
+  "length" : "12:40",
+  "title" : "နတ်သမီး မင်းသမီးလေး",
+  "genre" : "mfairytales,princess,witch",
+  "video" : "https://drive.google.com/file/d/1SiANYWmD-oEnhUkJrk1kG7XE84jxXPZc/view"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-PI8QFd9gYVU/XmTMdlUsPNI/AAAAAAAAEvs/-1F-WvB9-64zVsUMKnXorY3kGwBXOAIGwCLcBGAsYHQ/s1600/F13.jpg",
+  "length" : "07:28",
+  "title" : "မင်းသားလေးနှင့် ရိုးသားသော မိန်းကလေး",
+  "genre" : "mfairytales,princess,edu,minthar",
+  "video" : "https://drive.google.com/file/d/1SsJxi98B2SSctAhSEfji3r_4kBzTi0Rf/view"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-gAj4OZ6qLkE/XmTMds0hUpI/AAAAAAAAEvw/XA9HhWbhSJI0_hmFBQiVujSVohUujqN8QCLcBGAsYHQ/s1600/F14.jpg",
+  "length" : "09:17",
+  "title" : "ပွင့်လန်းနေတဲ့ သစ်ပင်ကြီး",
+  "genre" : "mfairytales,witch,edu",
+  "video" : "https://drive.google.com/file/d/1Jc1k7msDR1d41J66EPijXJX7fPsUo7jT/view"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-zjTsW_9Ng_0/XmTMeMO74JI/AAAAAAAAEv0/500-vtAS_FwdzD2V4V4kBa7FKisTndxdQCLcBGAsYHQ/s1600/F15.jpg",
+  "length" : "12:34",
+  "title" : "ထာဝရသူငယ်ချင်းများ",
+  "genre" : "mfairytales,edu",
+  "video" : "https://drive.google.com/file/d/18HyZpcYEbN_Es2mj4HJOuICs_F7CclFV/view"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-52dQwjBqqiA/XmTMeFbBiZI/AAAAAAAAEv4/9zJitXGl7PM13PmN2esAaAB7jGRWFMnUQCLcBGAsYHQ/s1600/F16.jpg",
+  "length" : "11:41",
+  "title" : "ခရီးသွားလူငယ်နဲ့ ကျောက်ကုန်သည်",
+  "genre" : "mfairytales,animal,witch,minthar",
+  "video" : "https://drive.google.com/file/d/1NIwD89VDXJa5sy5oNZuMF4HgvbS8zvlS/view"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-6jLnF5sllr0/XmTMevnHoJI/AAAAAAAAEv8/LV7G5GtQJZ8QmkoUPAD4QEZ66bx4y7xmACLcBGAsYHQ/s1600/F17.jpg",
+  "length" : "10:23",
+  "title" : "ပညာရှိတို့ရဲ့ လက်ဆောင်မွန်",
+  "genre" : "mfairytales,edu",
+  "video" : "https://drive.google.com/file/d/1i4eWsK6cF2Xih-pJsj7qcNbY_aDH4lnZ/view"
 }
 ]
 }
